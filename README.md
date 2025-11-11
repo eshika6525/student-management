@@ -18,6 +18,6 @@ The project includes:
 This project demonstrates skills in **database design**, **data manipulation**, and **data analysis** through SQL.
 
 📂 **GitHub Repository Link:**
-👉 [https://github.com/eshika-mudhiraj/student-management-sql](https://github.com/eshika-mudhiraj/student-management-sql)
+👉 [https://github.com/eshika6525/student-management](https://github.com/eshika6525/student-management)
 
 ---
