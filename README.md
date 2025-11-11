@@ -21,5 +21,3 @@ This project demonstrates skills in **database design**, **data manipulation**, 
 👉 [https://github.com/eshika-mudhiraj/student-management-sql](https://github.com/eshika-mudhiraj/student-management-sql)
 
 ---
-
-Would you like me to add a **“Tech Stack Used”** line (like PostgreSQL, MySQL, SQL Workbench) as a final touch? It makes your submission look even more complete.
