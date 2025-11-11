@@ -1,7 +1,3 @@
-Absolutely 💫 — here’s a **clean, professional, and nicely worded version** you can **copy–paste directly** into the Cognizant SQL form.
-
-It sounds confident, polished, and clearly shows you did a real project 👇
-
 ---
 
 ### 💼 **Project Title:**
