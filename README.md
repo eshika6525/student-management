@@ -1,5 +1,3 @@
----
-
 ### 💼 **Project Title:**
 
 **Student Management System (SQL Project)**
